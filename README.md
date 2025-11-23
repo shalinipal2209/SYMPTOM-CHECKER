@@ -15,29 +15,50 @@ This project is a simple Symptom Checker that helps users identify possible heal
    
 # TOOLS AND TECHNOLOGIES USED
 1. Programming Language: Python
+
 2. Tools:
+
 3.Any text editor (VS Code / Notepad++ / IDLE)
+
 4.Command Prompt / Terminal
+
 Technologies:
+
 1.Python dictionaries
+
 2.Set operations
+
 3.Conditional logic
+
 4.Basic sorting
 
 # REQUIREMENTS
 Python installed (any version 3.x)
+
 Code editor (optional)
+
 Hardware Requirements:
+
 1.Basic computer/laptop
+
 2.Minimum 2 GB RAM
+
 3.Keyboard for input
+
 Functional Requirements:
+
 1.User can enter symptoms
+
 2.System compares symptoms with predefined dataset
+
 3.System displays possible diseases
+
 Non-Functional Requirements:
+
 1.Fast matching
+
 2.Simple and readable output
+
 3.Easy to use for any user
 
 # ALGORITHMS
